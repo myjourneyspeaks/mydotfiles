@@ -1,5 +1,8 @@
 <# -- Aliases -- #>
 
+# Powershell
+Set-Alias -Name cl -Value Clear-Host
+
 # Git
 function Get-GitStatus { 
     & git status $args 
