@@ -1,4 +1,4 @@
-<# -- Aliases -- #>
+<# ----- Aliases ----- #>
 
 # Powershell
 Set-Alias -Name cl -Value Clear-Host
