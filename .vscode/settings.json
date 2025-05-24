@@ -1,18 +1,31 @@
 {
-  
-  
-  
+  // appearance and behaviour
+  "editor.fontFamily": "'Hack Nerd Font Propo', Consolas, 'Courier New', monospace",
+  "workbench.colorTheme": "Bearded Theme Black & Diamond",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.cursorBlinking": "expand",
+  "editor.minimap.enabled": false,
+  "workbench.tips.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.editor.showTabs": "single",
+  "workbench.editor.labelFormat": "short",
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "workbench.sideBar.location": "left",
+  "workbench.panel.showLabels": false,
+  "editor.lineNumbers": "relative",
+  "window.menuBarVisibility": "compact",
+  "window.titleBarStyle": "custom",
+  "chat.commandCenter.enabled": false,
+  "window.commandCenter": true,
+  "workbench.navigationControl.enabled": false,
+  "window.restoreWindows": "none",
+  "workbench.startupEditor": "none",
+
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-
-  
-  
   "window.confirmSaveUntitledWorkspace": false,
-  
-
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  
-  "editor.linkedEditing": true,
-  
+  "editor.linkedEditing": true  
 }
