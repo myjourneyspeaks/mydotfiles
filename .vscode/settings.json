@@ -1,25 +1,18 @@
 {
-  "chat.commandCenter.enabled": false,
-  "workbench.layoutControl.enabled": false,
-  "workbench.editor.showTabs": "single",
-  "editor.fontFamily": "'Hack Nerd Font Propo', Consolas, 'Courier New', monospace",
-  "editor.cursorBlinking": "expand",
+  
+  
+  
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.minimap.autohide": true,
-  "editor.minimap.enabled": false,
 
-  "workbench.activityBar.location": "top",
-  "workbench.colorTheme": "Bearded Theme Black & Diamond",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.sideBar.location": "right",
+  
+  
   "window.confirmSaveUntitledWorkspace": false,
-  "window.menuBarVisibility": "compact",
-  "window.titleBarStyle": "custom",
+  
 
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "editor.lineNumbers": "relative",
+  
   "editor.linkedEditing": true,
-  "workbench.panel.showLabels": false
+  
 }
